@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrionTH1
-- 🌱 I’m currently learning luau Roblox
-- 📫 How to reach me Discord: @orion#5304
+- 🌱 I’m currently learning... Luau Roblox
+- 📫 How to reach me... Discord: @orion#5304
 
 <!---
 OrionTH1/OrionTH1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
