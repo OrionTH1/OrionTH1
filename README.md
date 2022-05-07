@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OrionTH1
-- 🌱 I’m currently learning... Luau Roblox
+- 🌱 I’m currently learning... Lua Mta Syntax
 - 📫 How to reach me... Discord: @orion#5304
 
 <!---
