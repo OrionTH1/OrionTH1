@@ -8,6 +8,7 @@
 
 
 ## **Technologies**
+
   
 <div style="display: inline_block"><br>
   <a target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
@@ -15,7 +16,8 @@
   <a target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
   <a target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
-  
+
+
 </a>
 
  
@@ -31,7 +33,7 @@
  <a href="https://discord.com/channels/@me/800936098209333278" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheusemanoel987@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/OrionTH1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/819367009485324318/977819658268835941/Webp.net-gifmaker_1.gif">
+
 </div>
   
   
@@ -42,3 +44,6 @@
   
 - 🌱 I’m currently learning Lua with MTA sytanx
 - 💼 And i'm working in King's Academy, A <a href = "https://multitheftauto.com/"> MTA</a> server of Academy pvp
+<div>
+      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/819367009485324318/977819658268835941/Webp.net-gifmaker_1.gif">
+</div>
