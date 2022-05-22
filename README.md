@@ -42,7 +42,7 @@
 
 ## **About me**
   
-- 🌱 I’m currently learning Lua with MTA sytanx
+- 🌱 I’m currently learning Lua with MTA syntax
 - 💼 And i'm working in King's Academy, A <a href = "https://multitheftauto.com/"> MTA</a> server of Academy pvp
 <div>
       <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/819367009485324318/977819658268835941/Webp.net-gifmaker_1.gif">
