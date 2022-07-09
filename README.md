@@ -43,7 +43,7 @@
 ## **About me**
   
 - 🌱 I’m currently learning PENTEST/Ethical Hacking[](url)
-- 💼 I’m currently learning Lua with <a href="https://www.w3schools.com">Visit W3Schools</a>
+- 💼 And i'm working in <a href="https://discord.gg/rocketrp">Rocket Roleplay</a> a mta roleplay server
 - ❓ How to reach me? Email: matheusemanoel987@gmail.com or Discord: orion#5304
 <div>
       <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/819367009485324318/977819658268835941/Webp.net-gifmaker_1.gif">
