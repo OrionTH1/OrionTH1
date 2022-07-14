@@ -42,7 +42,7 @@
 
 ## **About me**
   
-- 🌱 I’m currently learning PENTEST/Ethical Hacking[](url)
+- 🌱 I’m currently learning Lua with <a href = "https://multitheftauto.com/" > MTA</a> syntax
 - 💼 And i'm working in <a href="https://discord.gg/rocketrp">Rocket Roleplay</a> a mta roleplay server
 - ❓ How to reach me? Email: matheusemanoel987@gmail.com or Discord: orion#5304
 <div>
