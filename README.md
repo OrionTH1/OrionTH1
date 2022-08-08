@@ -43,7 +43,7 @@
 
 ## **About me**
   
-- 🌱 I’m currently learning Lua with <a href = "https://multitheftauto.com/" > MTA</a> api
+- 🌱 I’m currently learning HTML, CSS and JS, trying to be the better full stack developer ever :)
 - 💼 And i'm working in <a href="https://discord.gg/rocketrp">Rocket Roleplay</a> a <a href = "https://multitheftauto.com/" > MTA</a> roleplay server
 - ❓ How to reach me? Email: matheusemanoel987@gmail.com or Discord: orion;#5304
 <div>
