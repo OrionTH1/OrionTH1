@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:75D5FF&height=210&section=header&text=Matheus&MediumSpace;Emanoel&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Full%20Stack&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0177FF,100:35AAFC&height=210&section=header&text=Matheus&MediumSpace;Emanoel&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Full%20Stack&descAlignY=50">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=211E22f&size=35&center=true&vCenter=true&width=1000&lines=Hello+:&#41;;I'm+Matheus+Emanoel+and+i'm+a+programming+student;Trying+to+find+what+make+my+eyes+shine+:&#41;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0177FFf&size=35&center=true&vCenter=true&width=1000&lines=Hello+:&#41;;I'm+Matheus+Emanoel+and+i'm+a+programming+student;Trying+to+find+what+make+my+eyes+shine+:&#41;)](https://git.io/typing-svg)
 
 ##
 
