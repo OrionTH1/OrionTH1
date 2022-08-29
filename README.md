@@ -8,7 +8,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OrionTH1&show_icons=true&count_private=true&hide_border=true&title_color=1E9BFF&icon_color=F7D746&text_color=c9d1d9&bg_color=0d1117" alt="OrionTH1 github stats" /> 
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=OrionTH1&hide_border=true&fire=F6D645&ring=1C7BC9&background=0D1117&dates=C1C1C1&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=F6D645&currStreakLabel=FFFFFF&sideLabels=FFFFFF" /> 
+<img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=OrionTH1&hide_border=true&fire=F6D645&ring=1E83D5&background=0D1117&dates=C1C1C1&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=F6D645&currStreakLabel=FFFFFF&sideLabels=FFFFFF" /> 
 
 </div>
 
