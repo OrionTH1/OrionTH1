@@ -20,7 +20,7 @@ I really love code, when i'm coding my eyes shine and i feel like i was in **my 
 - **I** already had a <a href="https://multitheftauto.com"><b>Multi Thef Auto</b></a> server(Lua).
 - **I'm** currently studying and practing Frond-End Technologies: **HTML**; **CSS**; **JS**. And **i'm loving it**! <br>
 - **I** looking forward to study **Back-end** posteriorly, and become a **Full-stack Developer**.<br>
-- **I** looking forward to enter in a **University** to do a technical course in **Systems Analysis and Development**
+- **I** looking forward to enter in a **University** to do a **Systems Analysis and Development** technical course.
 
 <br>
 
