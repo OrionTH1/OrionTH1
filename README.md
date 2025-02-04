@@ -9,7 +9,7 @@
 
 ## Public information
 
-My name is **Matheus Emanoel** and i'm a passionate **Front-end Developer** from **Rio de Janeiro, Brazil**.
+My name is **Matheus Emanoel** and i'm a passionate **Full-stack Developer** from **Rio de Janeiro, Brazil**.
 
 I met the programming when i thought of about open the google translate's source code, then i got really curious that "how does it all work?". So i promised myself that i would understand how all it work, so motivating me to learn programming, and then i fell in love with programming :heart:
 
@@ -18,7 +18,7 @@ I really love code, when i'm coding my eyes shine and i feel like i was in **my 
 
 ## What i'm doing
 - **I'm** currently studying and practing **Frond-End** Technologies: **Typescript;** **Next;** **React.** And **i'm loving it**! <br>
-- **I'm** currently studying **Back-end**: **Golang;** **Gin;** **Api rest** and looking forward to become a **Full-stack Developer**.<br>
+- **I'm** currently studying and practing **Back-end** Technologies: **Golang;** **Gin;** **Api rest.** And **i'm loving it too**! .<br>
 - **I'm** in **University** studying **Software Engineering**. <br/>
 - **I'm** looking for an opportunity as a **Front-End Developer.** <br/>
 
