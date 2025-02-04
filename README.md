@@ -16,13 +16,26 @@ I met the programming when i thought of about open the google translate's source
 I really love code, when i'm coding my eyes shine and i feel like i was in **my world**.
 
 
-## I'm...
-- **I** already had a <a href="https://multitheftauto.com"><b>Multi Thef Auto</b></a> server(Lua).
-- **I'm** currently studying and practing Frond-End Technologies: **HTML**; **CSS**; **JS**. And **i'm loving it**! <br>
-- **I** looking forward to study **Back-end** posteriorly, and become a **Full-stack Developer**.<br>
-- **I** looking forward to enter in a **University** to do a **Systems Analysis and Development** technical course.
+## What i'm doing
+- **I'm** currently studying and practing **Frond-End** Technologies: **Typescript;** **Next;** **React.** And **i'm loving it**! <br>
+- **I'm** currently studying **Back-end**: **Golang;** **Gin;** **Api rest** and looking forward to become a **Full-stack Developer**.<br>
+- **I'm** in University studying Software Engineering. <br/>
+- **I'm** looking for an opportunity as a **Front-End Developer.** <br/>
 
 <br>
+
+## 🚀 My tech stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/go/go-original-wordmark.svg" alt="Golang" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  
+</p>
 
 ## My Statistics
 <div align="center">  
