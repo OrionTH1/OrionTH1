@@ -19,7 +19,7 @@ I really love code, when i'm coding my eyes shine and i feel like i was in **my 
 ## What i'm doing
 - **I'm** currently studying and practing **Frond-End** Technologies: **Typescript;** **Next;** **React.** And **i'm loving it**! <br>
 - **I'm** currently studying and practing **Back-end** Technologies: **Golang;** **Gin;** **Api rest.** And **i'm loving it too**! .<br>
-- **I'm** in **University** studying **Software Engineering**. <br/>
+- **I'm** in **University** studying **Computer Science**. <br/>
 - **I'm** looking for an opportunity as a **Front-End Developer.** <br/>
 
 <br>
