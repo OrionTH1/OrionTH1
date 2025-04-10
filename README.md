@@ -13,7 +13,7 @@ My name is **Matheus Emanoel** and i'm a passionate **Full-stack Developer** fro
 
 I met the programming when i thought of about open the google translate's source code, then i got really curious that "how does it all work?". So i promised myself that i would understand how all it work, so motivating me to learn programming, and then i fell in love with programming :heart:
 
-I really love code, when i'm coding my eyes shine and i feel like i was in **my world**.
+I really love code, when i'm coding my eyes shine and i feel like i am in **my world**.
 
 
 ## What i'm doing
