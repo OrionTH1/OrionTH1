@@ -17,10 +17,10 @@ I really love code, when i'm coding my eyes shine and i feel like i am in **my w
 
 
 ## What i'm doing
-- **I'm** currently studying and practing **Frond-End** Technologies: **Typescript;** **Next;** **React.** And **i'm loving it**! <br>
-- **I'm** currently studying and practing **Back-end** Technologies: **Node.Js;** **Nest.js;** **Api rest.** And **i'm loving it too**! .<br>
+- **I'm** currently using **Frond-End** Technologies: **Typescript;** **Next;** **React.** And **i'm loving it**! <br>
+- **I'm** currently using **Back-end** Technologies: **Node.Js;** **Nest.js;** **Postgress.** And **i'm loving it too**! .<br>
 - **I'm** in **University** studying **Computer Science**. <br/>
-- **I'm** looking for an opportunity as a **Front-End Developer.** <br/>
+- **I'm** looking for an opportunity as a **Full Stack Developer.** <br/>
 
 <br>
 
